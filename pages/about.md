@@ -4,7 +4,6 @@ title: Divisions
 permalink: /about/
 ---
 
-**Divisions Between Majors and Colleges on Indiana University-Bloomington Campus.**
+**About our Project**
 
-Indiana University-Bloomington works really hard to make every school feel connected and a collective unit on a large campus, but individual schools work very hard to give their students a sense of a smaller community so it often feels more isolating. This idea is really well seen in the different bulletin boards that can be posted around the different buildings on campus. These bulletin boards should be a good way for the campus as a whole to stay connected but instead the bulletin boards become advertisements for the specific college that the classes in the building belong to. 
-
+Our project recognizes the division of schools and its negative effect on students. Walking into specific schools ourselves, we have found much information regarding the widespread issue of isolation in college. Indiana University should be a more inclusive place where students feel a part of one big community and not smaller, more exclusive ones. While some division may be necessary because specific groups of majors should be together, this still needs to be revised, specifically for first-year students. First-year students tend only to meet people in their particular study of interest and school because there are events for specific schools of interest. The issue with this is that it reduces diversity in the people they can meet. If more generalized, inclusion across majors and students can help cultivate understanding and respect among the student body. One solution for this is to have more campus-wide events that are not specific to any particular school but more geared towards the mental health and well-being of all students, which all students need equally.
