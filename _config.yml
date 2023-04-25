@@ -113,9 +113,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Exhibit A: Life Sciences'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Exhibit B: PBS'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
