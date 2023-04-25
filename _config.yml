@@ -19,10 +19,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Divisions'
-description:      'to be updated'
+description:      'Divisions on Indiana Unversity's campus'
 url:              'https://lianfong.github.io'
 baseurl:          '/Divisions'
-copyright:        'to be updated'
+copyright:        'Indiana University'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
