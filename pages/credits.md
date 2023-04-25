@@ -4,7 +4,8 @@ title: Credits
 permalink: '/credits/'
 ---
 
-The Divisions Project was created by Erin Vest, the writer, Nora Daley, the producer, and Lian Fong, the technlogist. This project was for SP23: Intro to Popular Culture: 9314, taught by instructor Yilin La. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+This website was created by Lian Fong (the technologist), Nora Daley (the producer), and Erin Vest (the writer) for the express purpose of raising awareness of the Divisions of Indiana University-Bloomington for an Introduction To Popular Culture class (SP23: Intro to Popular Culture: 9314). All images used belong to their original owners in all rights.
+It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 
 We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
 
