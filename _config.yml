@@ -19,10 +19,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Divisions'
-description:      'Divisions on Indiana Unversity's campus'
+description:      'Divisions in schools on Indiana Unversity's campus'
 url:              'https://lianfong.github.io'
 baseurl:          '/Divisions'
-copyright:        'Indiana University'
+copyright:        'By Nora Daley, Erin Vest, and Lian Fong, for educational purposes only.'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
