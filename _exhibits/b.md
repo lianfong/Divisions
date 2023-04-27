@@ -1,7 +1,6 @@
 ---
 layout: exhibit
 title: 'Exhibit B: Psychological and Brain Sciences Confinement'
-author: Mihr 'Ali
 publish_date: 2023-4-25
 permalink: /exhibits/b/
 ---
