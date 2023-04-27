@@ -1,7 +1,6 @@
 ---
 layout: exhibit
 title: 'Exhibit A: Life Sciences Partition'
-author: Mihr 'Ali
 publish_date: 2023-4-25
 permalink: /exhibits/a/
 ---
